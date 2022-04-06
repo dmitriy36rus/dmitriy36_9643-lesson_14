@@ -97,6 +97,7 @@ body{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    row-gap: 40px;
 }
 
 .content__block-one {
@@ -208,6 +209,7 @@ body{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    row-gap: 40px;
 }
 .content-part-two__chapter-one {
 }
@@ -287,7 +289,6 @@ body{
 }
 .image-one__item {
     max-width: 100%;
-    
     height: auto;
 }
 .part-two__image-two {
